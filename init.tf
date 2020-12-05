@@ -4,3 +4,7 @@ provider "aws" {
   region     = "us-east-1"
   version    = "=3.19.0"
 }
+
+provider "archive" {
+  version    = "=2.0.0"
+}
