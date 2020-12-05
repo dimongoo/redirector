@@ -1,0 +1,5 @@
+creds.tf
+.terraform*
+terraform.tfstate*
+files/*.zip
+.DS_Store
